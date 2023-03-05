@@ -1,4 +1,4 @@
-# exodus.github.io
+# Project Exodus
 
 
 <h3>This is Data website compiled to Help those in Egypt who seek freedom and want to flee the country.</h3>
